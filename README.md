@@ -1,1 +1,1 @@
-Demo of a CRUD app 
+Demo of a CRUD app in laravel
